@@ -1,0 +1,4 @@
+﻿  bin_tree.cpp
+C:\Users\HUAWEI\source\repos\for_tree\for_tree\bin_tree.cpp(49): warning C4715: Bin_tree::find: значение возвращается не при всех путях выполнения
+C:\Users\HUAWEI\source\repos\for_tree\for_tree\bin_tree.cpp(118): warning C4715: Bin_tree::Node::find: значение возвращается не при всех путях выполнения
+  for_tree.vcxproj -> C:\Users\HUAWEI\source\repos\for_tree\x64\Debug\for_tree.exe
